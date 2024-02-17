@@ -1,6 +1,6 @@
 # Take-Home Assessment for New Developers
 
-Welcome to our take-home assessment designed to evaluate your skills in state management, API integration, and cloud services. This assessment is divided into two main tasks, each focusing on different sets of technologies and challenges. Please read through the tasks carefully and follow the steps outlined.
+Welcome to our take-home assessment designed to evaluate your skills in state management, API integration, and cloud services. This assessment is divided into two main tasks, each focusing on different sets of technologies and challenges. Please read through the tasks carefully and follow the steps outlined. This project uses React Native and Expo.
 
 ## Initial Setup: Please fork this repository to start the project.
 
