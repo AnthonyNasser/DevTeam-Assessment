@@ -59,7 +59,7 @@ export const RootStoreModel = types
 				log.error(e.message, null)
 			}
 		}),
-		queryAmadeusFlightOffersPrice: flow(function* queryAmadeusSearchFlights() {
+		queryAmadeusFlightOffersPrice: flow(function* queryAmadeusFlightOffersPrice() {
 			try {
 				// TODO: Task 1, Step 3
 			} catch (e: any) {
