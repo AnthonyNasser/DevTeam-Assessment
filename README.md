@@ -12,7 +12,7 @@ In Task One, you will be working with `providers/root-store.tsx` to demonstrate 
 
 -  **Step 1.** Implement the `queryAmadeusFlightsSearch` action.
 -  **Step 2.** Display the desired data results in the Task 1 screen using the queried data. Utilize flights from the `rootStore`.
--  **Step 3.** Implement the `queryAmadeusFlightCreateOrder` action.
+-  **Step 3.** Implement the `queryAmadeusFlightOffersPrice` action.
 -  **Step 4.** Display the desired data results in the Task 1 screen using the confirmed flights data. With an Amadeus test key, this data should match the flight search data.
 -  **Step 5.** Implement the `queryAmadeusFlightCreateOrder` action again. Use the first flight from the confirmed flights array in `rootStore`.
 -  **Step 6.** Display the desired data results in the Task 1 screen using the selected flight data.

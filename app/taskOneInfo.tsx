@@ -26,7 +26,7 @@ export default function TaskOneInfo() {
 			{[
 				"Step 1. Implement the queryAmadeusFlightsSearch action.",
 				"Step 2. Display the desired data results in the Task 1 screen using the queried data. Use flights from the rootStore.",
-				"Step 3. implement the queryAmadeusFlightCreateOrder action.",
+				"Step 3. implement the queryAmadeusFlightOffersPrice action.",
 				"Step 4. Display the desired data results in the Task 1 screen using the confirmed flights data. Using an Amadeus test key, this data should be the same as the flight search data.",
 				"Step 5. Implement the queryAmadeusFlightCreateOrder action. Use the first flight from the confirmed flights array in rootStore.",
 				"Step 6. Display the desired data results in the Task 1 screen using the selected flight data.",
